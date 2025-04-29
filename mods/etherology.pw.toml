@@ -1,0 +1,13 @@
+name = "Etherology"
+filename = "Etherology-1.21-0.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MGHiBUyJ/versions/lRikFp3p/Etherology-1.21-0.1.7.jar"
+hash-format = "sha512"
+hash = "297ae67f805f119d7c1b3a7d3e4474772792f0123d6822c660d7adcbe88ad5919457eab71023d9c60b2fb55afe14144c3f22dfbf474cd4868e5b24299105d41f"
+
+[update]
+[update.modrinth]
+mod-id = "MGHiBUyJ"
+version = "lRikFp3p"

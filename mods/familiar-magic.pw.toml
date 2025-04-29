@@ -1,0 +1,13 @@
+name = "familiar magic"
+filename = "familiar_magic-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BF0Jps3E/versions/LlvJAAI0/familiar_magic-1.1.4.jar"
+hash-format = "sha512"
+hash = "182a1136fef23f0c004f8460af2aee95fc804ca52934e01b32d12349eb01e5688c84aad59b21e203b4ff9a1a33cb2f3d05cd9f08dcc74d4155bd030452e10945"
+
+[update]
+[update.modrinth]
+mod-id = "BF0Jps3E"
+version = "LlvJAAI0"

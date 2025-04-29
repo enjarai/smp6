@@ -1,0 +1,13 @@
+name = "Mirthdew Encore"
+filename = "mirthdew_encore-fabric-mc1.21.1-0.2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LFMwgWDl/versions/9q7FZj9N/mirthdew_encore-fabric-mc1.21.1-0.2.0.3.jar"
+hash-format = "sha512"
+hash = "527341c3f1b1939e4671b9246bebfd070241bb074fff3518b5c92971515fb74d1494b44f345c45d8462c42e3d92c562da919891032c73e9612daf9226209f125"
+
+[update]
+[update.modrinth]
+mod-id = "LFMwgWDl"
+version = "9q7FZj9N"

@@ -1,0 +1,13 @@
+name = "Joy Mod"
+filename = "joy-fabric-1.0.0-alpha.10+mc.1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qwgCXyzw/versions/ftDV31SE/joy-fabric-1.0.0-alpha.10%2Bmc.1.21.1.jar"
+hash-format = "sha512"
+hash = "59d7c8066a74d745c613c1df1d1aa219e878c4be9aefcbdf0ad09ee94faed866bc273a26c88cbb5dcd9d8b45d1d365f7f4541ce563415979fc88c79f10088711"
+
+[update]
+[update.modrinth]
+mod-id = "qwgCXyzw"
+version = "ftDV31SE"

@@ -1,0 +1,13 @@
+name = "Oxide"
+filename = "oxide-1.21.1-0.1.6-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mz1R5Wsg/versions/dqTUqct3/oxide-1.21.1-0.1.6-fabric.jar"
+hash-format = "sha512"
+hash = "cdd6dbea1841705705f9040b8d16c7628b3d6193c6f0bc1a6ab4bf299a432b714d61b9a9deafc9d1f8361084f4c5ec4a5c3b9a0d43aa093a35dec08dbbfe0807"
+
+[update]
+[update.modrinth]
+mod-id = "mz1R5Wsg"
+version = "dqTUqct3"

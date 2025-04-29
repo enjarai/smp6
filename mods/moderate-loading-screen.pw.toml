@@ -1,0 +1,13 @@
+name = "Mod-erate Loading Screen"
+filename = "moderate-loading-screen-1.4.3+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RCjGlCDj/versions/WIo80jNT/moderate-loading-screen-1.4.3%2B1.21.jar"
+hash-format = "sha512"
+hash = "ab2000381b6184d0a4a0463e3010cac781d4f83957eb250863b88fcb7cab72cbbc8d9cbbd0e51d8c2f59141d7ebdaf97bb9336068395ac95778c492d1b15ac42"
+
+[update]
+[update.modrinth]
+mod-id = "RCjGlCDj"
+version = "WIo80jNT"

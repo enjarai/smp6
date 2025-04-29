@@ -1,0 +1,13 @@
+name = "Enchiridion"
+filename = "enchiridion-fabric-0.1.0-bc25.20+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LXagYH7y/versions/WGynZN4X/enchiridion-fabric-0.1.0-bc25.20%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "1476f9159a31b1aa6be9269ec6d6617a129c3adc99d9cc3a711349077c85dda7caec12725b108f52e777248c9b18e3c7e0627d41289fabf28f2abcd95e171ba2"
+
+[update]
+[update.modrinth]
+mod-id = "LXagYH7y"
+version = "WGynZN4X"

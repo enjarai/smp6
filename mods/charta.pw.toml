@@ -1,0 +1,13 @@
+name = "Charta"
+filename = "charta-1.0.5.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sFamPxlk/versions/irurSwX2/charta-1.0.5.1-fabric.jar"
+hash-format = "sha512"
+hash = "aa4c101259c96a2c7d3ba5da0e31f915164bae94ab5b30c7610160ff09aabe76089fc5eb8456fc95d22f7b59ba2a42a7d372cbd36f832c0d9af4ad0644a57881"
+
+[update]
+[update.modrinth]
+mod-id = "sFamPxlk"
+version = "irurSwX2"

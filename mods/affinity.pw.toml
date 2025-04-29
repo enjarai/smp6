@@ -1,0 +1,13 @@
+name = "Affinity"
+filename = "affinity-0.1.11+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y8TA5POy/versions/tMq5wrUP/affinity-0.1.11%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "3121f545f02cf057ffa8f5d4a7dcb647a4b97b02a8a5e77781727149f405428c4178c6dc7c8cf74124be1c7b6456f5bab8719a8b97d521c686722bc503424c99"
+
+[update]
+[update.modrinth]
+mod-id = "Y8TA5POy"
+version = "tMq5wrUP"

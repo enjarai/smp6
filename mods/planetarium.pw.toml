@@ -1,0 +1,13 @@
+name = "Planetarium"
+filename = "planetarium-2.1.0+mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dBOB3VZD/versions/YTi9Qdfx/planetarium-2.1.0%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "83c9afba650b6951f96831a0dfb6faf046bd7c98a2f757e13b317c28969f6be8b54bf23d5d468d454d2036f62320ba49bd77af2e0150d0c79edf3a181724ce27"
+
+[update]
+[update.modrinth]
+mod-id = "dBOB3VZD"
+version = "YTi9Qdfx"

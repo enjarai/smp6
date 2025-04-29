@@ -1,0 +1,13 @@
+name = "Anshar"
+filename = "anshar-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/adcai9DE/versions/DY4BndvK/anshar-1.0.2.jar"
+hash-format = "sha512"
+hash = "e950f37cddde6f91be4aed553cdbced9baeb170cc732fd869c768afa0f20753b758bfea0459193fafa14b09c35e5b91accd3e7e9e6d313bab3c0334266be7b46"
+
+[update]
+[update.modrinth]
+mod-id = "adcai9DE"
+version = "DY4BndvK"
