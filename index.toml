@@ -121,6 +121,11 @@ hash = "a0a4120479b3a00265797ba4ab4b351e7ea6730f1a0394d069da0d92165a3bd9"
 metafile = true
 
 [[files]]
+file = "mods/headpat.pw.toml"
+hash = "476cee1d0c5080061c4cc609f692028b118f7084e22dfed8b8f709550465cffc"
+metafile = true
+
+[[files]]
 file = "mods/inline.pw.toml"
 hash = "0117b995c692b37ded24aaa1da83cd116bc0c4dd2cf45b74c6290138a7c864cd"
 metafile = true
