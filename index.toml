@@ -166,6 +166,11 @@ hash = "5f5ba0fde87eb80a3ba78d0f3c92efda0753d9108ea4f47df99b5c628bb88f38"
 metafile = true
 
 [[files]]
+file = "mods/oritech.pw.toml"
+hash = "77e2e87ced88f82f6ed29b4380e8ff3e655e0ec358a4373c11c089cf411f3d76"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
@@ -203,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/starcaller.pw.toml"
 hash = "866052099c81db542fb4781adf8162635a5f925eda11c21d32d24bfbe35f9d04"
+metafile = true
+
+[[files]]
+file = "mods/stitch.pw.toml"
+hash = "7740735e42409fd58e98055464a9528d8baeecd517cbb45bbf7e64387730ed75"
 metafile = true
 
 [[files]]
